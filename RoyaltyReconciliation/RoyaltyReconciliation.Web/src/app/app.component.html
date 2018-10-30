@@ -1,0 +1,19 @@
+<div class="viewport imo-typography">
+    <div class="viewBody">
+        <imo-header [title]="title" class="header"></imo-header>
+        <div class="scroll-container">
+            <imo-tab-group color="secondary">
+
+                <imo-tab label="File Upload App">
+                    <div>
+                        <imo-file-upload></imo-file-upload>
+                    </div>
+                </imo-tab>
+
+            </imo-tab-group>
+            
+                <router-outlet></router-outlet>
+            
+        </div>
+    </div>
+</div>

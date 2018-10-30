@@ -1,0 +1,15 @@
+<package>
+  <metadata>
+    <id>RoyaltyReconciliation.Api</id>
+    <version>6.5.7.324</version>
+    <authors>Interns</authors>
+    <owners>Intelligent Medical Objects, Inc.</owners>
+    <projectUrl>http://prd-tfsfpv01:8080/tfs/Collection01/_git/RoyaltyReconciliation</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Project to track usage of 3rd party package licenses</description>
+    <copyright>Copyright © 2016</copyright>
+  </metadata>
+  <files>
+    <file src="$SRCDIR$\RoyaltyReconciliation.API\RoyaltyReconciliation.API\bin\Release\netcoreapp2.0\publish\**\*.*" target="" />
+  </files>
+</package>

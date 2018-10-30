@@ -1,0 +1,33 @@
+<label for="file-upload" class="btn btn-primary">
+        <input id="file-upload" type="file" (change)="uploadFile($event)" multiple accept=".xls,.xlsx">
+        Upload
+</label>
+<div>
+    <p id="fileinfo"></p>
+</div>
+
+<span style="font-weight:bold;color:rgb(236, 19, 19);" *ngIf="progress > 0 && progress < 100">
+    {{progress}}
+</span>
+
+<div class="loader" *ngIf="uploading"></div>
+
+
+<span style="font-weight:bold;color:green;" *ngIf="message">
+    {{message}}
+</span>
+
+<div>
+    <label>Select sheet: </label>
+    <select (change)="selectSheet($event)">
+        <option disabled selected>-None-</option>
+        <option *ngFor="let sheet of sheet_List">
+            {{sheet}}
+        </option>
+    </select>
+</div>
+
+<div>
+    <div class="loader" *ngIf="loading"></div>
+    <p id="forkResult" style="font-weight:bold;color:green;"></p>
+</div>

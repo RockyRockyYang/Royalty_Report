@@ -1,0 +1,8 @@
+﻿<?xml version="1.0"?>
+<Values>
+  <ProductName>Royalty Reconciliation</ProductName>
+  <CopyrightStartYear>2018</CopyrightStartYear>
+  <OctopusPackages>
+  <Package>RoyaltyReconciliation.Api</Package>
+  </OctopusPackages>
+</Values>

@@ -1,0 +1,15 @@
+<package>
+  <metadata>
+    <id>RoyaltyReconcilation.Api</id>
+    <version>1.0.0.0</version>
+    <authors>Interns</authors>
+    <owners>Intelligent Medical Objects, Inc.</owners>
+    <projectUrl>http://prd-tfsfpv01:8080/tfs/Collection01/LicenseMinder</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Project to track Royalty Reconciliation</description>
+    <copyright>Copyright © 2018</copyright>
+  </metadata>
+  <files>
+    <file src="$SRCDIR$\RoyaltyReconciliation.Api\RoyaltyReconciliation.Api\bin\Release\netcoreapp2.0\publish\**\*.*" target="" />
+  </files>
+</package>

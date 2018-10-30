@@ -1,0 +1,14 @@
+C:\Users\ryang\source\repos\RoyaltyTest\RoyaltyTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ryang\source\repos\RoyaltyTest\RoyaltyTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ryang\source\repos\RoyaltyTest\RoyaltyTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ryang\source\repos\RoyaltyTest\RoyaltyTest\bin\Debug\netcoreapp2.0\RoyaltyTest.deps.json
+C:\Users\ryang\source\repos\RoyaltyTest\RoyaltyTest\bin\Debug\netcoreapp2.0\RoyaltyTest.runtimeconfig.json
+C:\Users\ryang\source\repos\RoyaltyTest\RoyaltyTest\bin\Debug\netcoreapp2.0\RoyaltyTest.runtimeconfig.dev.json
+C:\Users\ryang\source\repos\RoyaltyTest\RoyaltyTest\bin\Debug\netcoreapp2.0\RoyaltyTest.dll
+C:\Users\ryang\source\repos\RoyaltyTest\RoyaltyTest\bin\Debug\netcoreapp2.0\RoyaltyTest.pdb
+C:\Users\ryang\source\repos\RoyaltyTest\RoyaltyTest\obj\Debug\netcoreapp2.0\RoyaltyTest.csprojAssemblyReference.cache
+C:\Users\ryang\source\repos\RoyaltyTest\RoyaltyTest\obj\Debug\netcoreapp2.0\RoyaltyTest.csproj.CoreCompileInputs.cache
+C:\Users\ryang\source\repos\RoyaltyTest\RoyaltyTest\obj\Debug\netcoreapp2.0\RoyaltyTest.AssemblyInfoInputs.cache
+C:\Users\ryang\source\repos\RoyaltyTest\RoyaltyTest\obj\Debug\netcoreapp2.0\RoyaltyTest.AssemblyInfo.cs
+C:\Users\ryang\source\repos\RoyaltyTest\RoyaltyTest\obj\Debug\netcoreapp2.0\RoyaltyTest.dll
+C:\Users\ryang\source\repos\RoyaltyTest\RoyaltyTest\obj\Debug\netcoreapp2.0\RoyaltyTest.pdb

@@ -1,0 +1,22 @@
+﻿<!-- See http://msdn.microsoft.com/en-us/library/bb514188.aspx  for details -->
+<Dictionary>
+  <Words>
+    <Recognized>
+      <Word>vstfs</Word>
+      <Word>nu</Word> <!-- for NuGet -->
+      <Word>Ctor</Word>
+      <Word>Cobertura</Word>
+      <Word>ProcessEvents</Word>
+    </Recognized>
+    <Compound>
+    </Compound>
+    <DiscreteExceptions>
+    </DiscreteExceptions>
+  </Words>
+  <Acronyms>
+    <CasingExceptions>
+      <Acronym>IMO</Acronym>
+      <Acronym>TFS</Acronym>
+    </CasingExceptions>
+  </Acronyms>
+</Dictionary>
