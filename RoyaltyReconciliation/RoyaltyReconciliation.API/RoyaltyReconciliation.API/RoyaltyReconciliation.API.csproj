@@ -12,7 +12,7 @@
     <PackageReference Include="IMO.StatusCheck" Version="8.2.0.3" />
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.8" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.3" />
-    <PackageReference Include="nuget.commandline" Version="4.7.0" />
+    <PackageReference Include="nuget.commandline" Version="4.9.6" />
   </ItemGroup>
 
   <ItemGroup>
